@@ -2,7 +2,6 @@
 
 
 - 🔭 Apaixonado por tecnologia.
-- 🌱 Estudante Front-end.
 
 <div align="center">
   <a href="https://github.com/wesley-ferreiraa">
